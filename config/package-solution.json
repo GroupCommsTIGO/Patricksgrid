@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "millicom-grid-client-side-solution",
+    "id": "948f3775-deda-4682-82a6-b171d6e64ef8",
+    "version": "1.0.3.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.15.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "Millicom Grid description"
+      },
+      "longDescription": {
+        "default": "Millicom Grid description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "millicom-grid Feature",
+        "description": "The feature that activates elements of the millicom-grid solution.",
+        "id": "23b41223-20d9-4ad1-9bd2-45a1a5a711a0",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/millicom-grid.sppkg"
+  }
+}

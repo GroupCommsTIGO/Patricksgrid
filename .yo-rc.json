@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.15.0",
+    "libraryName": "millicom-grid",
+    "libraryId": "948f3775-deda-4682-82a6-b171d6e64ef8",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "Millicom Grid",
+    "solutionShortDescription": "Millicom Grid description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
